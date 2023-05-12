@@ -3,11 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am a student pursuing my MSc in Finance at UBC Sauder. Although my academic pursuits keep me busy, I find solace and creativity in writing modern Chinese poetry, especially when I'm feeling reflective or introspective.
-
-To share my passion for poetry with others and express my thoughts and emotions, I've created a blog dedicated to my modern Chinese poems. Through my blog, I hope to connect with readers who appreciate poetry and share my love for the Chinese language.
-
-Aside from personal expression, I also want to use my blog as a platform to challenge myself and improve my poem writing skills. By publishing my poems publicly, I feel more accountable for the quality of my work and the message I convey. I hope that my poems can resonate with readers and provide a unique perspective on modern life and emotions. Thank you for visiting my website and I look forward to sharing more of my work with you.
+<p class="has-line-data" data-line-start="2" data-line-end="3">I am a student pursuing my MSc in Finance at UBC Sauder. Although my academic pursuits keep me busy, I find solace and creativity in writing modern Chinese poetry, especially when I’m feeling reflective or introspective.</p>
+<p class="has-line-data" data-line-start="4" data-line-end="5">To share my passion for poetry with others and express my thoughts and emotions, I’ve created a blog dedicated to my modern Chinese poems. Through my blog, I hope to connect with readers who appreciate poetry and share my love for the Chinese language.</p>
+<p class="has-line-data" data-line-start="6" data-line-end="7">Aside from personal expression, I also want to use my blog as a platform to challenge myself and improve my poem writing skills. By publishing my poems publicly, I feel more accountable for the quality of my work and the message I convey. I hope that my poems can resonate with readers and provide a unique perspective on modern life and emotions. Thank you for visiting my website and I look forward to sharing more of my work with you.</p>
 
 ### Contact me
 
